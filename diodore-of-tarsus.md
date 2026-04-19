@@ -1,6 +1,6 @@
 ---
 title: Who is Diodore of Tarsus (c. 330-390)?
-layout: minimal
+layout: post
 ---
 
 Who is [Diodore of Tarsus](https://gedsh.bethmardutho.org/Diodore-of-Tarsus) (c. 330-390)?
