@@ -1,7 +1,9 @@
-.page-wrap {
-  max-width: 100%;
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: 16.5rem;
+  }
 }
 
-.nav-list-link {
-  color: #ffffff;
+a {
+  color: #ffffff !important;
 }
