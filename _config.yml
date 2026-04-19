@@ -2,6 +2,4 @@ title: Library
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
-color_scheme: dark
-extra_css:
-  - assets/css/custom.css
+color_scheme: mine
